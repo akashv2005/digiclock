@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/akashv2005/digiclock.git/static/css/main.066b3cbf.css",
+    "main.js": "/akashv2005/digiclock.git/static/js/main.37d1cb55.js",
+    "static/js/453.42928b6a.chunk.js": "/akashv2005/digiclock.git/static/js/453.42928b6a.chunk.js",
+    "static/media/logo.svg": "/akashv2005/digiclock.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/akashv2005/digiclock.git/index.html",
+    "main.066b3cbf.css.map": "/akashv2005/digiclock.git/static/css/main.066b3cbf.css.map",
+    "main.37d1cb55.js.map": "/akashv2005/digiclock.git/static/js/main.37d1cb55.js.map",
+    "453.42928b6a.chunk.js.map": "/akashv2005/digiclock.git/static/js/453.42928b6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.066b3cbf.css",
+    "static/js/main.37d1cb55.js"
+  ]
+}
